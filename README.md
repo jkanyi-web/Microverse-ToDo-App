@@ -52,16 +52,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -72,8 +62,6 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
-
 
 ```sh
  npm install
@@ -89,29 +77,14 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Zeph180/Awesome-books.git
+  git clone git@github.com:jkanyi-web/Microverse-ToDo-App.git
 ```
 -
 
 ### Install
 
 Install this project with:
-
-
-### Usage
-
-To run the project, execute the following command:
-
-
-### Run tests
-
-To run tests, run the following command:
-
-
-### Deployment
-
-You can deploy this project using:
-
+ git clone git@github.com:jkanyi-web/Microverse-ToDo-App.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
