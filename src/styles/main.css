@@ -117,7 +117,7 @@ li {
   transition: transform 250ms ease;
   border-radius: 5px;
   background: #fff;
-  box-shadow: 0 0 6px rgba(0, 0, 0, 0.15)
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.15);
 }
 
 .settings .task-menu.show {
