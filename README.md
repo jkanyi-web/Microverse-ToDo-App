@@ -49,14 +49,11 @@
 
 - **Dynamic Creation**
 - **Webpack Configuration**
-<<<<<<< addremove
 - **Add-Item-To-List feature**
 - **Remove-Item-From-List feature**
 - **Edit-List-Item feature**
 - **Clear-List feature**
 - **LocalStorage Feature**
-=======
->>>>>>> master
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,13 +100,8 @@ Install this project with:
 👤 **Victor Kanyi**
 
 - GitHub: [@jkanyi-web](https://github.com/jkanyi-web)
-<<<<<<< addremove
 - Twitter: [@jkanyi757](https://twitter.com/jkanyi757)
 - LinkedIn: [Kanyi-Kanyi](https://linkedin.com/in/kanyi-kanyi-6668aa188/)
-=======
-- Twitter: [@twitterhandle](https://twitter.com/jkanyi757)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/kanyi-kanyi-6668aa188/)
->>>>>>> master
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
