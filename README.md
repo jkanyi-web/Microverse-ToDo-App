@@ -100,8 +100,8 @@ Install this project with:
 👤 **Victor Kanyi**
 
 - GitHub: [@jkanyi-web](https://github.com/jkanyi-web)
-- Twitter: [@twitterhandle](https://twitter.com/jkanyi757)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/kanyi-kanyi-6668aa188/)
+- Twitter: [@jkanyi757](https://twitter.com/jkanyi757)
+- LinkedIn: [Kanyi-Kanyi](https://linkedin.com/in/kanyi-kanyi-6668aa188/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
