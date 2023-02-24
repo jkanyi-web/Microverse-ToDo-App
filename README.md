@@ -49,6 +49,11 @@
 
 - **Dynamic Creation**
 - **Webpack Configuration**
+- **Add-Item-To-List feature**
+- **Remove-Item-From-List feature**
+- **Edit-List-Item feature**
+- **Clear-List feature**
+- **LocalStorage Feature**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
