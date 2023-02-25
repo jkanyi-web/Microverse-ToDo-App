@@ -1,5 +1,6 @@
 /* eslint-disable no-unused-vars */
 /** @format */
+import './styles/main.css';
 
 const taskBox = document.querySelector('.task-box');
 const taskInput = document.querySelector('.task-input input');
